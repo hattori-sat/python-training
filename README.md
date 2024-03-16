@@ -1,4 +1,7 @@
 退屈なことはpythonにやらせよう．
+https://github.com/oreilly-japan/automatestuff-ja/tree/master
+
+forkを当時知らなかったので．
 
 サンプルコードを用いて勉強したいと思います．
 
